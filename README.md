@@ -49,11 +49,11 @@ add videos
 
 # **Équipe** 
 
-Bjorn LAI, L2 info : Gameplay, Musique, SFX, Développement
+**Bjorn LAI**, L2 info : Gameplay, Musique, SFX, Développement
 
-Florent GILLOTEAUX, M1 info GIG : Gestion de projet, Architecture, Développement
+**Florent GILLOTEAUX**, M1 info GIG : Gestion de projet, Architecture, Développement
 
-Zia LAI, M1 info GIG : Graphismes, Concept Art, Scénario, UI, Développement
+**Zia LAI**, M1 info GIG : Graphismes, Concept Art, Scénario, UI, Développement
 
 Étudiants à Aix-Marseille Université, sur le campus de Luminy.
 
