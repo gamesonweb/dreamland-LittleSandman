@@ -12,15 +12,15 @@ Lien du jeu
 
 # **Commandes**
 
-Se déplacer : Z, Q, S, D
+Se déplacer : **ZQSD** (ou **WASD** sur un clavier QWERTY)
 
-Sauter : espace
+Sauter : **Espace**
 
-Planer : shift (maintenir dans les airs)
+Planer : **Shift** (maintenir dans les airs)
 
-Lancer du sable : clic gauche
+Lancer du sable : **Clic gauche**
 
-Menu pause : Entrée
+Menu pause : **Entrée**
 
 ## Menu pause 
 
@@ -39,7 +39,7 @@ add videos
 # Logiciels utilisés
 
 * Moteur de jeu : **Babylon.js**
-* Modélisation :** Blender**
+* Modélisation : **Blender**
 * IDE : **WebStorm**
 * Musique : **Musecore 4**
 * Textures : **Procreate**
@@ -49,11 +49,11 @@ add videos
 
 # **Équipe** 
 
-Bjorn LAI, L2 info : Gameplay, Musique, SFX, Developpement
+Bjorn LAI, L2 info : Gameplay, Musique, SFX, Développement
 
-Florent GILLOTEAUX, M1 info GIG : Gestion de projet, Architecture, Developpement
+Florent GILLOTEAUX, M1 info GIG : Gestion de projet, Architecture, Développement
 
-Zia LAI, M1 info GIG : Graphismes, Concept Art, Scénario, UI, Developpement
+Zia LAI, M1 info GIG : Graphismes, Concept Art, Scénario, UI, Développement
 
 Étudiants à Aix-Marseille Université, sur le campus de Luminy.
 
