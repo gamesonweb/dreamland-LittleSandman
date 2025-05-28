@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunklittle_sandman=self.webpackChunklittle_sandman||[]).push([[472],{5513:e=>{e.exports=JSON.parse('{"title":"Recent posts","items":[{"title":"\ud83c\udfbb Musique multipiste","permalink":"/dreamland-ZiaLai/blog/music","unlisted":false,"date":"2025-05-27T00:00:00.000Z"}]}')}}]);
