@@ -20,6 +20,10 @@ Lien vers _**la doc**_ : [https://bj-lai.github.io/little-sandman-docs3/docs](ht
 
 add videos 
 
+# 🔧 Code source
+
+Lien vers le dépot git du _**code source**_ : [https://github.com/ZiaLai/Little-Sandman](https://github.com/ZiaLai/Little-Sandman)
+
 # 💻 Logiciels utilisés
 
 * Moteur de jeu : **Babylon.js**
