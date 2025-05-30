@@ -1,6 +1,6 @@
 ![Illustration_sans_titre (2)](https://github.com/user-attachments/assets/0eda4acf-16a8-4e7d-9acd-b1c548fbe92f)
 
-Games on web 2025 DreamLand
+Games on web 2025, Dreamland
 
 
 ### Le monde des rêves est en péril. Incarnez l'apprenti du Marchand de sable et sauvez le rêve !
@@ -31,7 +31,7 @@ Lien vers le dépot git du _**code source**_ : [https://github.com/ZiaLai/Little
 * Moteur de jeu : **Babylon.js**
 * Modélisation : **Blender**
 * IDE : **WebStorm**
-* Musique : **Musecore 4**
+* Musique : **MuseScore 4**
 * Textures : **Procreate**
 * Cinématiques : **DaVinci Resolve**
 * Gestion de fichiers : **GitHub**
@@ -39,9 +39,9 @@ Lien vers le dépot git du _**code source**_ : [https://github.com/ZiaLai/Little
 
 # 🧑‍💻 **Équipe** 
 
-* **Bjorn LAI**, L2 info : Gameplay, Musique, SFX, Développement
+* **Bjorn LAI**, L2 info : Gameplay, Musique, Développement
 
-* **Florent GILLOTEAUX**, M1 info GIG : Gestion de projet, Architecture, Développement
+* **Florent GILLOTEAUX**, M1 info GIG : Gestion de projet, Optimisation, Développement
 
 * **Zia LAI**, M1 info GIG : Graphismes, Concept Art, Scénario, UI, Développement
 
