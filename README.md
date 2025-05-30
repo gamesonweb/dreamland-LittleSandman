@@ -18,7 +18,9 @@ Lien vers _**la doc**_ : [https://bj-lai.github.io/little-sandman-docs3/docs](ht
 
 # Vidéos de gameplay
 
-add videos 
+Toutes les vidéos sont disponibles sur notre chaîne YouTube.
+
+Lien vers la chaîne : [https://www.youtube.com/watch?v=_WATSNbraUQ&list=PLPT3RtO0I2yUOFizwqzEIhS3k8K3myz5z](https://www.youtube.com/watch?v=_WATSNbraUQ&list=PLPT3RtO0I2yUOFizwqzEIhS3k8K3myz5z) 
 
 # 🔧 Code source
 
