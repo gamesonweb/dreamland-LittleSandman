@@ -28,7 +28,7 @@ add videos
 * Musique : **Musecore 4**
 * Textures : **Procreate**
 * Cinématiques : **DaVinci Resolve**
-* Gestion et stockage de fichiers : **GitHub**, **Dropbox**
+* Gestion de fichiers : **GitHub**
 
 
 # 🧑‍💻 **Équipe** 
