@@ -40,6 +40,7 @@ Tous les assets, modèles 3D, textures, cinématiques, musiques, et effets sonor
 * Musique : **MuseScore 4**
 * Textures : **Procreate**
 * Cinématiques : **DaVinci Resolve**
+* Animations : **Mixamo**
 * Gestion de fichiers : **GitHub**
 
 
