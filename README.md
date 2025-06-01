@@ -45,7 +45,7 @@ Tous les assets, modèles 3D, textures, cinématiques, musiques, et effets sonor
 
 # 🧑‍💻 **Équipe** 
 
-* **Bjorn LAI**, L2 info : Gameplay, Musique, Développement
+* **Björn LAI**, L2 info : Gameplay, Musique, Développement
 
 * **Florent GILLOTEAUX**, M1 info GIG : Gestion de projet, Optimisation, Développement
 
