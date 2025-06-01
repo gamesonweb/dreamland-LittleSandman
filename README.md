@@ -1,10 +1,9 @@
 ![Illustration_sans_titre (2)](https://github.com/user-attachments/assets/0eda4acf-16a8-4e7d-9acd-b1c548fbe92f)
+# Little Sandman
+## Games On Web 2025, Dreamland
 
-Games on web 2025, Dreamland
-
-
-### Le monde des rêves est en péril. Incarnez l'apprenti du Marchand de sable et sauvez le rêve !
-### Plongez dans un univers onirique où les cauchemars rôdent. Trouvez les cauchemars et ramenez le rêve !
+### Le monde des rêves est en péril. Incarnez l'apprenti du Marchand de sable et sauvez le Dreamland !
+### Plongez dans un univers onirique où les cauchemars rôdent. Chassez-les, et ramenez le rêve !
 
 # 🎮 Où trouver le jeu 
 Le jeu est hébergé sur git page.
