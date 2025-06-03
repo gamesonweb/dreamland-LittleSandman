@@ -31,6 +31,12 @@ Tous les assets, modèles 3D, textures, cinématiques, musiques, et effets sonor
 
 \* Sauf environ 1% des textures : skydome de la ville généré par IA, utilisation de quelques textures libres de droit. 
 
+# 🪲 Bugs
+
+Malgré tout notre soin, quelques bugs de collision persistent, et peuvent affecter votre expérience de jeu. 
+
+**Astuce** : Si vous vous retrouvez coincé dans un mur, ouvrez le menu pause avec la touche _Entrée_ et cliquez sur "_Se téléporter au point de départ_".
+
 # 💻 Logiciels utilisés
 
 * Moteur de jeu : **Babylon.js**
